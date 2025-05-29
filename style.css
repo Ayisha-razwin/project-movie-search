@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f4f8;
+}
+#movieResult {
+    padding: 20px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+h2, p {
+    margin-bottom: 10px;
+}
